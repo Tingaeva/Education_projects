@@ -10,3 +10,15 @@
 - тип объекта общественного питания;
 - адрес;
 - количество посадочных мест.
+
+## Используемые библиотеки
+- pandas
+- math.ceil
+- math.factorial
+- matplotlib.pyplot 
+- scipy.stats
+- datetime 
+- numpy 
+- seaborn
+- plotly.express
+- plotly.graph_objects
