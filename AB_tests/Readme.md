@@ -10,7 +10,19 @@
 ## Данные
 Каждая запись в логе — это действие пользователя, или событие.
 
-EventName — название события;
-DeviceIDHash — уникальный идентификатор пользователя;
-EventTimestamp — время события;
-ExpId — номер эксперимента: 246 и 247 — контрольные группы, а 248 — экспериментальная.
+- EventName — название события;
+- DeviceIDHash — уникальный идентификатор пользователя;
+- EventTimestamp — время события;
+- ExpId — номер эксперимента: 246 и 247 — контрольные группы, а 248 — экспериментальная.
+
+## Используемые библиотеки
+- pandas
+- math.ceil
+- math.factorial
+- matplotlib.pyplot
+- scipy.stats
+- datetime
+- numpy
+- seaborn
+- plotly.express
+- plotly.graph_objects
